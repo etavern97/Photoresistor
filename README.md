@@ -9,3 +9,5 @@ https://cvilleschools.instructure.com/courses/31056/assignments/308396/submissio
 # The code
 
 https://create.arduino.cc/editor/elena97/b798246e-51ab-40e9-a790-5eb2dc7b2d26
+
+This assignment didnt take me a ton of time to do, but i was very excited when it worked so well. I was glad I got to expiriment with using a photoresistor. 
